@@ -1,0 +1,22 @@
+{
+  "Engineering": {
+    "description": "Engineering involves solving real-world problems using science and math.",
+    "skills": ["Problem Solving", "Mathematics", "Analytical Thinking"],
+    "courses": ["B.Tech", "Diploma in Engineering"]
+  },
+  "Medicine": {
+    "description": "Medicine involves diagnosing and treating illnesses to improve health.",
+    "skills": ["Empathy", "Biology", "Attention to Detail"],
+    "courses": ["MBBS", "BDS", "Nursing"]
+  },
+  "Arts": {
+    "description": "Arts includes creative fields like design, fine arts, and literature.",
+    "skills": ["Creativity", "Drawing", "Imagination"],
+    "courses": ["BA in Fine Arts", "Design", "Literature"]
+  },
+  "Business": {
+    "description": "Business includes management, finance, marketing, and entrepreneurship.",
+    "skills": ["Leadership", "Strategic Thinking", "Communication"],
+    "courses": ["BBA", "MBA", "Commerce"]
+  }
+}

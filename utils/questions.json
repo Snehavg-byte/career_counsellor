@@ -1,0 +1,7 @@
+[
+  {"id": 1, "question": "Do you enjoy solving math problems?", "category": "analytical"},
+  {"id": 2, "question": "Are you interested in helping others?", "category": "social"},
+  {"id": 3, "question": "Do you like designing or drawing?", "category": "creative"},
+  {"id": 4, "question": "Do you enjoy managing events or leading groups?", "category": "leadership"},
+  {"id": 5, "question": "Are you interested in understanding how businesses work?", "category": "business"}
+]
